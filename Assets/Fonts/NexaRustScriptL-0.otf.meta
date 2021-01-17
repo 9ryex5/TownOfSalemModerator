@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab7bad2f95570c2459a9e7a5263d2191
+timeCreated: 1505142782
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nexa Rust Script L
+  fontNames:
+  - Nexa Rust Script L
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

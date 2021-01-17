@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c8fb8677fce77fd4b9e28f9a9f726568
+timeCreated: 1505142766
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lumberjack
+  fontNames:
+  - Lumberjack
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a4c0473a8bfb8b4ba8361d9707855f8, type: 3}
+  - {fileID: 12800000, guid: 797c0fc806cd27241a07aef5a24460c3, type: 3}
+  - {fileID: 12800000, guid: 479c547d70a566f4e884b0c15706c82d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5e81cf75932e54a45a3cb64055aea08f
+timeCreated: 1505142635
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fugaz One
+  fontNames:
+  - Fugaz One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

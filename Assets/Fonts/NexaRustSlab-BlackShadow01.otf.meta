@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e6bab2a7a5666ab44b83cea4dbae3670
+timeCreated: 1505142782
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nexa Rust Slab
+  fontNames:
+  - Nexa Rust Slab
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
